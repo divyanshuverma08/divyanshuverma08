@@ -29,7 +29,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **React, Next.js, Node.js, Mongo Db**
 - ☁️ I've keen interest in frontend development.
-- 📫 Feel free to reach me out **divyanshuverma08@gmail.com**
+- 📫 Feel free to reach me out **divyanshuverma.work@gmail.com**
 <!-- - 🌱 I’m currently learning **Next.js** -->
 <!--Intro end-->
 
